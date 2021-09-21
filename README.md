@@ -28,8 +28,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://hackmd.io/x66kbsnJRQG2YTHdkY-UQA 
-the gif version is on this site and my notes is here
+
+https://hackmd.io/x66kbsnJRQG2YTHdkY-UQA ,
+the gif version is on this site and my notes is here.
 
 ![](https://i.imgur.com/6eMsbJC.gif)
 
